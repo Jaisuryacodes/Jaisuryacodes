@@ -7,7 +7,7 @@ Seeking opportunities in Software Development
 - 🤔 I’m looking for opportunities to work in tech!
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/jaisuryas)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaisuryas/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I love rockets.
   
